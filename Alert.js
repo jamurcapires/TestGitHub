@@ -1,1 +1,1 @@
-alert("Hello World! Thiks is a new file.");
+alert("Hello World! This is a new file.");
